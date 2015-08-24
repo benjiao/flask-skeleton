@@ -1,4 +1,4 @@
-basic-flask-app
+Flask Skeleton
 ===============
 
-This is a skeleton for a basic Flask application
+This is a template for a basic Flask application
